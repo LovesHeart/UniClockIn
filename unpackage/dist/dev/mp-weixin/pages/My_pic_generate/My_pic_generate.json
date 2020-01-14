@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "打卡程序",
+  "usingComponents": {
+    "wm-poster": "/components/wm-poster/wm-poster"
+  }
+}

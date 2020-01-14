@@ -1,0 +1,1 @@
+<button class="_right-container" size="mini" data-event-opts="{{[['tap',[['set',['$event']]]]]}}" bindtap="__e">设置</button>

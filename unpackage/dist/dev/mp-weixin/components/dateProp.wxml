@@ -1,0 +1,1 @@
+<view><view class="container-center"><text style="width:auto;font-size:medium;">{{dateString}}</text></view></view>

@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "打卡程序",
+  "usingComponents": {
+    "date": "/components/dateProp",
+    "l-time": "/myComponents/time",
+    "set": "/myComponents/setButton/setButton"
+  }
+}

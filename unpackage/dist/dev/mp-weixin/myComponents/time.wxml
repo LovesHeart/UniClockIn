@@ -1,0 +1,1 @@
+<view class="container-time-text" style="margin-top:15px;"><view class="time-text">{{a1}}</view><view class="time-text">{{a2}}</view><view class="time-text">{{a3}}</view><view class="time-text">{{a4}}</view></view>

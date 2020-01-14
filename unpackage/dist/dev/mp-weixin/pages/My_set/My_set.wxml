@@ -1,0 +1,1 @@
+<view><button data-event-opts="{{[['tap',[['setRemindTime',['$event']]]]]}}" bindtap="__e">设置提醒时间</button><button data-event-opts="{{[['tap',[['feedback',['$event']]]]]}}" bindtap="__e">意见反馈</button></view>
